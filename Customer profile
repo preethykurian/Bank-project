@@ -1,0 +1,5 @@
+read customer name, account no, amount
+if deposit is done
+amount=amount+current depost
+else 
+amount=amount-withdrawal
