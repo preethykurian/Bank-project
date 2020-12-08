@@ -3,3 +3,8 @@ if deposit is done
 amount=amount+current depost
 else 
 amount=amount-withdrawal
+if amount >=5000 then
+display" weligible for loan
+else
+display
+"not  eligible"
